@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "wdio": "npx wdio run ./wdio.conf.js"
+    "wdio": "npx wdio run ./wdio.mobile.conf.js"
   },
   "keywords": [],
   "author": "",
