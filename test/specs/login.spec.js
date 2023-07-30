@@ -1,4 +1,4 @@
-import { restartApp } from '../helpers/utils';
+// import { restartApp } from '../helpers/utils';
 import CatalogScreen from '../screen-objects/CatalogScreen';
 import Menu from '../screen-objects/Menu';
 import LoginScreen from '../screen-objects/LoginScreen';
