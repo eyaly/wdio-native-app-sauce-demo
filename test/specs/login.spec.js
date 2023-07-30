@@ -1,8 +1,8 @@
 import { restartApp } from '../helpers/utils';
-// import CatalogScreen from '../screen-objects/CatalogScreen';
-// import Menu from '../screen-objects/Menu';
-// import LoginScreen from '../screen-objects/LoginScreen';
-// import { LOGIN_USERS } from '../helpers/e2eConstants';
+import CatalogScreen from '../screen-objects/CatalogScreen';
+import Menu from '../screen-objects/Menu';
+import LoginScreen from '../screen-objects/LoginScreen';
+import { LOGIN_USERS } from '../helpers/e2eConstants';
 
 describe('Login', () => {
   beforeEach(async () => {
