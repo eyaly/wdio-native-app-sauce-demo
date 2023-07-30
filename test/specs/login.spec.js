@@ -6,7 +6,7 @@ import { LOGIN_USERS } from '../helpers/e2eConstants';
 
 describe('Login', () => {
   beforeEach(async () => {
-    Restart the app before each session, only not for the first session
+    // Restart the app before each session, only not for the first session
     await restartApp();
     await CatalogScreen.waitForIsShown(true);
      // logout first
